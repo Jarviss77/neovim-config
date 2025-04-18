@@ -1,0 +1,1 @@
+### neovim noob configuration
